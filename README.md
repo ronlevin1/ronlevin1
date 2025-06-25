@@ -22,14 +22,26 @@ I am fascinated by Mathematics and Theoretical CS. I'm particularly interested i
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Project 1
 
-![Project 1 Screenshot](project_1_screenshot_url)
+**Image Editing System**  
+A command-line image processing tool that allows applying various filters and adjustments to images through configuration files, built in Python.  
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/Image-Editing-System)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+### Project 2
 
-### [Project 2 Title](project_2_link)
+**Generic Markov Chain**  
+This project provides a generic implementation of a Markov chain in C and demonstrates its application through two different programs: a "Snakes and Ladders" game simulator and a text-based tweet generator.
+You can check out the repository ![here](https://github.com/ronlevin1/Generic-Markov-Chain)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+### Project 3
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**ASCII Art**  
+A Java-based application that converts images into ASCII art.  
+You can check out the repository ![here](https://github.com/ronlevin1/ASCII-Art)
+
+### Project 4
+
+**PEPSE - A 2D Platformer Game**  
+Environmental Procedural Simulator, Super-Mario-like-style built in Java.  
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/PEPSE).
