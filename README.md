@@ -4,7 +4,7 @@
 ## About Me
 
 I'm a 3rd year Computer Science student, looking for a part-time Software Engineering role.
-I value a hardworking approach and have built a diverse background through rigorous academic, military, and volunteer experiences. This journey developed my commitment to excellence and teamwork. I appreciate personal growth, work steadily under pressure, and look for ways to contribute positively in any team setting.
+I value a hardworking approach and have built a diverse background through rigorous academic, military, and volunteer experiences. This path developed my commitment to excellence and teamwork. I appreciate personal growth, work steadily under pressure, and look for ways to contribute positively anywhere I am.
  
 I am fascinated by Mathematics and Theoretical CS. I'm particularly interested in projects that merge theoretical concepts with practical applications and hands-on coding.
 
