@@ -26,7 +26,7 @@ I am fascinated by Mathematics and Theoretical CS. I'm particularly interested i
 
 **Image Editing System**  
 A command-line image processing tool that allows applying various filters and adjustments to images through configuration files, built in Python.  
-This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/Image-Editing-System)
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository [here](https://github.com/ronlevin1/Image-Editing-System)
 
 ### Project 2
 
