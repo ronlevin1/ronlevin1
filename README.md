@@ -32,7 +32,7 @@ This project showcases my skills in **Object-Oriented-Programming**. You can che
 
 **Generic Markov Chain**  
 This project provides a generic implementation of a Markov chain in C and demonstrates its application through two different programs: a "Snakes and Ladders" game simulator and a text-based tweet generator.
-You can check out the repository ![here](https://github.com/ronlevin1/Generic-Markov-Chain)  
+You can check out the repository [here](https://github.com/ronlevin1/Generic-Markov-Chain)  
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_mk_chain.png)
@@ -41,7 +41,7 @@ You can check out the repository ![here](https://github.com/ronlevin1/Generic-Ma
 
 **ASCII Art**  
 A Java-based application that converts images into ASCII art.  
-You can check out the repository ![here](https://github.com/ronlevin1/ASCII-Art)
+You can check out the repository [here](https://github.com/ronlevin1/ASCII-Art)
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_cat_output.png)
@@ -50,7 +50,7 @@ You can check out the repository ![here](https://github.com/ronlevin1/ASCII-Art)
 
 **PEPSE - A 2D Platformer Game**  
 Environmental Procedural Simulator, Super-Mario-like-style built in Java.  
-This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/PEPSE).
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository [here](https://github.com/ronlevin1/PEPSE).
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_pepse.png)
@@ -59,4 +59,4 @@ This project showcases my skills in **Object-Oriented-Programming**. You can che
 
 **Digit Recogition Neural-Network**  
 A C++ implementation of a Multi-Layer Perceptron (MLP) neural network designed for recognizing handwritten digits. It takes a pre-trained model's weights and biases as input, along with an image file, and predicts the digit shown in the image.
-You can check out the repository ![here](https://github.com/ronlevin1/Digit-Recogition-NN).
+You can check out the repository [here](https://github.com/ronlevin1/Digit-Recogition-NN).
