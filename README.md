@@ -26,7 +26,7 @@ I am fascinated by Mathematics and Theoretical CS. I'm particularly interested i
 
 **Image Editing System**  
 A command-line image processing tool that allows applying various filters and adjustments to images through configuration files, built in Python.  
-This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![](https://github.com/ronlevin1/Image-Editing-System)
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/Image-Editing-System)
 
 ### Project 2
 
@@ -54,3 +54,9 @@ This project showcases my skills in **Object-Oriented-Programming**. You can che
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_pepse.png)
+
+### Project 5
+
+**Digit Recogition Neural-Network**  
+A C++ implementation of a Multi-Layer Perceptron (MLP) neural network designed for recognizing handwritten digits. It takes a pre-trained model's weights and biases as input, along with an image file, and predicts the digit shown in the image.
+You can check out the repository ![here](https://github.com/ronlevin1/Digit-Recogition-NN).
