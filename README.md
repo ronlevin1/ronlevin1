@@ -26,13 +26,13 @@ I am fascinated by Mathematics and Theoretical CS. I'm particularly interested i
 
 **Image Editing System**  
 A command-line image processing tool that allows applying various filters and adjustments to images through configuration files, built in Python.  
-This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/Image-Editing-System)
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository [here](https://github.com/ronlevin1/Image-Editing-System)
 
 ### Project 2
 
 **Generic Markov Chain**  
 This project provides a generic implementation of a Markov chain in C and demonstrates its application through two different programs: a "Snakes and Ladders" game simulator and a text-based tweet generator.
-You can check out the repository ![here](https://github.com/ronlevin1/Generic-Markov-Chain)  
+You can check out the repository [here](https://github.com/ronlevin1/Generic-Markov-Chain)  
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_mk_chain.png)
@@ -41,7 +41,7 @@ You can check out the repository ![here](https://github.com/ronlevin1/Generic-Ma
 
 **ASCII Art**  
 A Java-based application that converts images into ASCII art.  
-You can check out the repository ![here](https://github.com/ronlevin1/ASCII-Art)
+You can check out the repository [here](https://github.com/ronlevin1/ASCII-Art)
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_cat_output.png)
@@ -50,7 +50,7 @@ You can check out the repository ![here](https://github.com/ronlevin1/ASCII-Art)
 
 **PEPSE - A 2D Platformer Game**  
 Environmental Procedural Simulator, Super-Mario-like-style built in Java.  
-This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository ![here](https://github.com/ronlevin1/PEPSE).
+This project showcases my skills in **Object-Oriented-Programming**. You can check out the repository [here](https://github.com/ronlevin1/PEPSE).
 
 *Demo run Screenshot:*  
 ![ss](screenshots/demo_pepse.png)
